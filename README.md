@@ -1,5 +1,7 @@
 # Python-Login-Form-2
-Created same as Python-Login-Form-1 (https://github.com/mohsinziabutt/Python-Login-Form-1.git)
+Created same as Python-Login-Form-1.
+
+Python-Login-Form-1: https://github.com/mohsinziabutt/Python-Login-Form-1.git
 
 Design Look:
 
