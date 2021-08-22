@@ -1,4 +1,4 @@
-# Python-Login-Form-2
+# Python-Login-Register-Form-MySQL
 Created same as Python-Login-Form-1.
 
 Python-Login-Form-1: https://github.com/mohsinziabutt/Python-Login-Form-1.git
